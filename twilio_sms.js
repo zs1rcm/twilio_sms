@@ -1,6 +1,5 @@
 //Twilio SMS nodejs console command
-//zs1rcm / gmail com
-
+//imamba.com zs1rcm
 
 if(process.argv.length <= 2){
     console.log('Usage: twilio_sms.js <to_number> <message>');
